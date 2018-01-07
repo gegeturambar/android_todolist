@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">todolist</string>
+    <string name="action_settings">Settings</string>
+    <string name="array_todos">PULSAR_TODOS_ARRAY</string>
+</resources>
